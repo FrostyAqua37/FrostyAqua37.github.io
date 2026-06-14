@@ -1,3 +1,3 @@
-# Your blog
+# Welcome to my page repository 
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is a page where I document my journey and process when building coding projects, and improve my skills and knowledge as an AI / ML Engineer.
