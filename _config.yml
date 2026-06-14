@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My Blog
-description: My blog where I document my journey and process when building coding projects.
+title: Home 
+description: A page used as a collective for documenting and showcasing personal coding projects that I have built.
 github_username: FrostyAqua37
 
 # Email and twitter are optional:
